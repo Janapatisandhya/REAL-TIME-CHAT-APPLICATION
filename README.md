@@ -25,3 +25,7 @@ This setup allows seamless message reflection across different tabs in the same 
 The benefits of this approach include its simplicity, speed, and the lack of need for server-side code or databases. It is ideal for prototyping or creating local-only applications where real-time updates are needed between tabs. However, it is limited in scalability and practicality for broader applications involving multiple users or persistent message history.
 
 To summarize, this project successfully demonstrates how to build a lightweight real-time chat system using only client-side technologies. By leveraging SPCK Editor for development and localStorage for data sharing, a fully functional chat experience was created for use within a single browser. This foundational project can serve as a stepping stone to more advanced real-time communication systems that use server-side technologies and support multi-user environments across multiple browsers and devices. for this task
+
+*OUTPUT
+
+![Image](https://github.com/user-attachments/assets/fa496397-c48a-447c-a0f4-3e3d5fb5a8b9)
